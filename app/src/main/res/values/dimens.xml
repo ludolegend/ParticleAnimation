@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_50_negative">-50dp</dimen>
+</resources>
